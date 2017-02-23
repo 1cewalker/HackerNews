@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="points_by">points by</string>
+    <string name="comments">comments</string>
+    <string name="link">LINK</string>
+</resources>
